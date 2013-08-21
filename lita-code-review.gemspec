@@ -1,11 +1,7 @@
 # coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'lita/codereviews/version'
-
 Gem::Specification.new do |spec|
-  spec.name          = 'lita-codereviews'
-  spec.version       = Lita::Codereviews::VERSION
+  spec.name          = 'lita-code-review'
+  spec.version       = '0.0.1'
   spec.authors       = ['Zac Stewart']
   spec.email         = ['zgstewart@gmail.com']
   spec.description   = %q{ A Lita handler for assigning weekly code reviews for a team }

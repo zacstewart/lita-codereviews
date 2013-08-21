@@ -1,7 +1,6 @@
 require "lita/codereviews/version"
 
 module Lita
-  module Codereviews
-    # Your code goes here...
+  module CodeReview
   end
 end
