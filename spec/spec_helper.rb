@@ -6,5 +6,5 @@ SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
 ]
 SimpleCov.start { add_filter '/spec/' }
 
-require 'lita-codereviews'
+require 'lita-code-review'
 require 'lita/rspec'
