@@ -4,7 +4,7 @@
 
 ## Installation
 
-Add lita-karma to your Lita instance's Gemfile:
+Add lita-codereviews to your Lita instance's Gemfile:
 
 ```ruby
 gem 'lita-codereviews'
